@@ -12,9 +12,18 @@ EditorBuildSettings:
     path: Assets/MainMenu.unity
     guid: 5289f5d47c80e7f47bb85daaf73946b5
   - enabled: 1
+    path: Assets/PauseMenu.unity
+    guid: 8f5f51d50fbb94f4698aae1f33f87e45
+  - enabled: 1
     path: Assets/MainGame.unity
     guid: 49bb8bdcf4ec2a647b50895a470c33de
   - enabled: 1
-    path: Assets/PauseMenu.unity
-    guid: 8f5f51d50fbb94f4698aae1f33f87e45
+    path: Assets/MainGameLv2.unity
+    guid: 2635aa7ed6016654d858b94956c22219
+  - enabled: 1
+    path: Assets/MainGameLv3.unity
+    guid: 980b53c1ab5ea914bb886f23720c7a9f
+  - enabled: 1
+    path: Assets/LevelSelect.unity
+    guid: f48eb31c2c5bddf4da5a49a5ff0f958d
   m_configObjects: {}

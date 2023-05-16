@@ -29,7 +29,7 @@ namespace Platformer
             }
         }
 
-        private void ReloadLevel()
+        public void ReloadLevel()
         {
             Application.LoadLevel(Application.loadedLevel);
         }
